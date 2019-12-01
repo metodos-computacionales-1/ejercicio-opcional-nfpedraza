@@ -2,7 +2,7 @@
 #include <fstream>
 
 using namespace std;
-
+// Codigo extraido y modificado (levemente) de https://www.math.utah.edu/~jasonu/code/feigenbaum.cc
 // Logistic map
 
 double f(const double r, const double x)
